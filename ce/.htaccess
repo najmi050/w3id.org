@@ -43,6 +43,6 @@ RewriteRule ^(.*)$ https://najmi050.github.io/CE-Ontology/doc/406.html [R=406,L]
 # Default response
 # ---------------------------
 # Rewrite rule to serve the RDF/XML content from the vocabulary URI by default
-RewriteRule ^(.*)$ https://github.io/CE-Ontology/doc/ontology.rdf [R=303,L]
+RewriteRule ^(.*)$ https://najmi050.github.io/CE-Ontology/doc/ontology.rdf [R=303,L]
 
 
